@@ -80,6 +80,7 @@ body {
   }
   
   .searchbar-profile {
+    height: 40px;  
     border-radius: 75%;
   }
   
